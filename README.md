@@ -18,4 +18,4 @@ Trevor Darrell, Pieter Abbeel, Jitendra Malik, Angjoo Kanazawa.
 
 - [ ] Release sim‑to‑real pipeline (September 15th, 2025)  
 - [ ] Release the video dataset (July 15th, 2025) 
-- [ ] Release real‑to‑sim pipeline (June 15th, 2025)
+- [ ] Release real‑to‑sim pipeline (July 15th, 2025)
