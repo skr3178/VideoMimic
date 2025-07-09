@@ -1,6 +1,7 @@
 # VideoMimic Real-to-Sim
 
-https://github.com/user-attachments/assets/c270efb0-dae9-4b99-94d0-b4787fa2face
+
+https://github.com/user-attachments/assets/606049bf-464e-4a16-bc82-9beaaa4fbcc1
 
 [Input]: [RGB Video](https://www.youtube.com/shorts/yvgGak8D4ls)  
 [Output]: [Env (pc + mesh) + Human + Robot](https://www.youtube.com/shorts/ZsqrKNh-eas)
