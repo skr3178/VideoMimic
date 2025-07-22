@@ -11,7 +11,8 @@ ZIP_NAME="downloaded_file.zip"
 if ! command -v gdown &> /dev/null
 then
     echo "gdown not found. Installing gdown..."
-    pip install --user gdown
+    pip install --upgrade pip
+    pip install gdown
 fi
 
 # === MAKE TARGET DIR ===

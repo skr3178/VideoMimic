@@ -1631,7 +1631,7 @@ def main(
     self_coll_factor_weight: float = 1.0,
     world_coll_factor_weight: float = 0.1,
     world_coll_margin: float = 0.01,
-    limit_cost_factor_weight: float = 1000.0,
+    limit_cost_factor_weight: float = 10000.0,
     smoothness_cost_factor_weight: float = 10.0,
     foot_skating_cost_weight: float = 10.0,
     ground_contact_cost_weight: float = 1.0,
